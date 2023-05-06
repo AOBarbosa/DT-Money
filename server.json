@@ -1,5 +1,5 @@
 {
-  "transactions" : [
+  "transactions": [
     {
       "id": 1,
       "description": "Desenvolvimento de site",
@@ -23,6 +23,30 @@
       "category": "Education",
       "price": 1999,
       "createdAt": "2023-05-03T04:20:42.718Z"
+    },
+    {
+      "category": "Venda",
+      "description": "Desenvolvimento de app",
+      "price": 12500,
+      "type": "income",
+      "createdAt": "2023-05-06T07:27:06.947Z",
+      "id": 4
+    },
+    {
+      "description": "Placa de video",
+      "type": "outcome",
+      "category": "Peças PC",
+      "price": 3000,
+      "createdAt": "2023-05-06T07:31:14.155Z",
+      "id": 5
+    },
+    {
+      "description": "Monster",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 9,
+      "createdAt": "2023-05-06T07:49:58.999Z",
+      "id": 6
     }
   ]
 }
